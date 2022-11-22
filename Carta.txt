@@ -1,0 +1,3 @@
+Este es una primera práctica utilizando el software de control de versiones GIT
+
+los que sea
