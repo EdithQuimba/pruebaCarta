@@ -1,2 +1,4 @@
 El día de hoy hemos aprendido las partes de un cpu y darle un pequeño mantenimiento 
+x4
+
  
